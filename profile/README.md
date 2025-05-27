@@ -12,3 +12,7 @@
 👶 **[LEELISE](https://github.com/LEELISE)** - 스터디원
 
 👶 **[YJ-circle](https://github.com/YJ-circle)** - 스터디원
+
+## 룰
+1. 문제를 풀었을 경우, 해당 알고리즘 폴더 안에 파일을 넣어서 각자의 브랜치에 Push
+2. 문제 별 번호-이름.java 방식으로 저장하기(ex. 2146-다리.java)
